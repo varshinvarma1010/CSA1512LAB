@@ -1,0 +1,10 @@
+Hadoop is a big data processing framework.
+Hadoop stores large amounts of data.
+HDFS is useed for distributed data storage.
+MapReduce is used for distributes data processing.
+Hadoop used HDFS and MapReduce.
+Big data require efficient storage and processing.
+Hadoop makes big data processing easier.
+MapReduce processes data using mapper and reducer.
+HDFS stores data across multiple nodes.
+Hadoop is useful for big data applications.
